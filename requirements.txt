@@ -7,3 +7,4 @@ spacy
 nltk
 python-docx
 PyPDF2
+matplotlib
