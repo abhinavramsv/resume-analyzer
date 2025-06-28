@@ -1,10 +1,12 @@
 streamlit
 pandas
 numpy
+matplotlib
+seaborn
 plotly
 scikit-learn
 spacy
 nltk
-python-docx
 PyPDF2
-matplotlib
+python-docx
+jinja2
