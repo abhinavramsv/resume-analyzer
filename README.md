@@ -102,6 +102,6 @@ This project is licensed under the MIT License.
 
 ## 🙌 Acknowledgements
 
-Built with ❤️ using Streamlit and open-source Python libraries.
+Built using Streamlit and open-source Python libraries.
 
 ---
