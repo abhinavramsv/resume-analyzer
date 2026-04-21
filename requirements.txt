@@ -1,12 +1,2 @@
-streamlit
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-scikit-learn
-spacy
-nltk
-PyPDF2
-python-docx
-jinja2
+streamlit==1.45.1
+pdfplumber==0.11.6
